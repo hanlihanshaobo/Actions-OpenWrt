@@ -20,5 +20,5 @@ git clone -b master --single-branch https://github.com/tty228/luci-app-servercha
 git clone -b master --single-branch https://github.com/NateLol/luci-app-oled package/new/luci-app-oled
 
 #替换argon主题
-git clone -b master --single-branch https://github.com/jerrykuku/luci-theme-argon package/new/luci-theme-argon
+git clone -b 18.06 --single-branch https://github.com/jerrykuku/luci-theme-argon package/new/luci-theme-argon
 rm -rf package/lean/luci-theme-argon

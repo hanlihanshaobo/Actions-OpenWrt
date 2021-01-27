@@ -11,7 +11,7 @@ Argon，Bootstrap
 实时监控，释放内存，实时信息，TTYD终端，定时重启，ShadowSocksR Plus+，微信推送，解锁网易云灰色歌曲，FRP内网穿透，京东签到，Upnp，Turbo ACC网络加速，IP/MAC绑定
 
 # 致谢
-- [P3TERX](https://github.com/P3TERX/Actions-OpenWrt)
+- [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
 - [Microsoft Azure](https://azure.microsoft.com)
 - [GitHub Actions](https://github.com/features/actions)
 - [OpenWrt](https://github.com/openwrt/openwrt)

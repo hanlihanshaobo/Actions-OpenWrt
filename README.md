@@ -6,9 +6,9 @@ https://github.com/hanlihanshaobo/Actions-OpenWrt/actions
 ## 功能
 
 ### 主题
-Argon Bootstrap
+Argon，Bootstrap
 ### 插件
-实时监控 释放内存 实时信息 TTYD终端 定时重启 SSRP 微信推送 网易云解锁 FRP内网穿透 京东签到 Upnp TurboACC网络加速 IP/MAC绑定
+实时监控，释放内存，实时信息，TTYD终端，定时重启，ShadowSocksR Plus+，微信推送，网易云解锁，FRP内网穿透，京东签到，Upnp，Turbo ACC网络加速，IP/MAC绑定
 
 # 致谢
 - [P3TERX](https://github.com/P3TERX/Actions-OpenWrt)

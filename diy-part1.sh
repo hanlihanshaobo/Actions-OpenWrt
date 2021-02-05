@@ -15,8 +15,13 @@ sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
+
+#添加server酱
 git clone -b master --single-branch https://github.com/tty228/luci-app-serverchan package/new/luci-app-serverchan
+
+#添加oled
 git clone -b master --single-branch https://github.com/NateLol/luci-app-oled package/new/luci-app-oled
+mv package/new/luci-app-oled/po/zh_Hans package/new/luci-app-oled/po/zh-cn
 
 #替换京东签到
 rm -rf package/lean/luci-app-jd-dailybonus

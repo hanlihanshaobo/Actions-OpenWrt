@@ -30,3 +30,6 @@ git clone https://github.com/jerrykuku/luci-app-jd-dailybonus package/new/luci-a
 #替换argon主题
 rm -rf package/lean/luci-theme-argon
 git clone -b 18.06 --single-branch https://github.com/jerrykuku/luci-theme-argon package/new/luci-theme-argon
+
+#添加edge主题
+git clone -b 18.06 --single-branch https://github.com/garypang13/luci-theme-edge.git

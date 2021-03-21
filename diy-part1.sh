@@ -32,4 +32,4 @@ rm -rf package/lean/luci-theme-argon
 git clone -b 18.06 --single-branch https://github.com/jerrykuku/luci-theme-argon package/new/luci-theme-argon
 
 #添加edge主题
-git clone -b 18.06 --single-branch https://github.com/garypang13/luci-theme-edge.git
+git clone -b 18.06 --single-branch https://github.com/garypang13/luci-theme-edge.git package/new/luci-theme-edge

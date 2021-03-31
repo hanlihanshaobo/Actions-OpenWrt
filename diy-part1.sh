@@ -33,3 +33,6 @@ git clone -b 18.06 --single-branch https://github.com/jerrykuku/luci-theme-argon
 
 #添加edge主题
 git clone -b 18.06 --single-branch https://github.com/garypang13/luci-theme-edge.git package/new/luci-theme-edge
+
+#添加甜糖星愿自动采集
+git clone https://github.com/jerrykuku/luci-app-ttnode.git/new/luci-app-ttnode

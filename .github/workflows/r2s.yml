@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: jdcloud_ax1800pro
+name: nanopi-r2s
 
 on:
   repository_dispatch:

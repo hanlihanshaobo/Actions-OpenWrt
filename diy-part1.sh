@@ -18,3 +18,5 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 # add OpenClash
 echo 'src-git OpenClash https://github.com/vernesong/OpenClash.git' >>feeds.conf.default
+# add kucat主题
+echo 'src-git kucat https://github.com/sirpdboy/luci-theme-kucat.git' >>feeds.conf.default

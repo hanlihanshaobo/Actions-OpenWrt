@@ -21,5 +21,5 @@ echo 'src-git OpenClash https://github.com/vernesong/OpenClash.git' >>feeds.conf
 # add kucat主题
 echo 'src-git kucat https://github.com/sirpdboy/luci-theme-kucat.git' >>feeds.conf.default
 # add openwrt-packages
-echo 'src-git openwrt-packages https://github.com/kenzok8/openwrt-packages.git' >>feeds.conf.default
+#echo 'src-git openwrt-packages https://github.com/kenzok8/openwrt-packages.git' >>feeds.conf.default
 

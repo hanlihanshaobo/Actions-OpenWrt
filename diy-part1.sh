@@ -20,7 +20,11 @@ sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 # add OpenClash
 #echo 'src-git OpenClash https://github.com/vernesong/OpenClash.git' >>feeds.conf.default
 # add kucat主题
-#echo 'src-git kucat https://github.com/sirpdboy/luci-theme-kucat.git' >>feeds.conf.default
+echo 'src-git kucat https://github.com/sirpdboy/luci-theme-kucat.git' >>feeds.conf.default
 # add openwrt-packages
 #echo 'src-git openwrt-packages https://github.com/kenzok8/openwrt-packages.git' >>feeds.conf.default
 
+# 集客AC控制器
+echo 'src-git gecoosac https://github.com/lwb1978/openwrt-gecoosac.git' >>feeds.conf.default
+# 应用过滤
+echo 'src-git OpenAppFilter https://github.com/destan19/OpenAppFilter.git' >>feeds.conf.default

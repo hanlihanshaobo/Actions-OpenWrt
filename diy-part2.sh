@@ -17,4 +17,9 @@ sed -i 's/192.168.1.1/192.168.2.1/g' package/base-files/files/bin/config_generat
 #sed -i 's/luci-theme-bootstrap/luci-theme-argon/g' feeds/luci/collections/luci/Makefile
 
 # Modify hostname
-#sed -i 's/OpenWrt/P3TERX-Router/g' package/base-files/files/bin/config_generate
+#sed -i 's/OpenWrt/DM定制/g' package/base-files/files/bin/config_generate
+
+# 替换design主题
+ rm -rf feeds/luci/themes/luci-theme-design
+ git clone https://github.com/MilesPoupart/luci-theme-design.git feeds/luci/themes/luci-theme-design
+
